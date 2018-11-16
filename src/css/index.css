@@ -1,0 +1,25 @@
+body{
+	margin:0;
+	padding:0;
+}
+ul li{
+	list-style: none;
+}
+/*dialog*/
+.el-dialog__header{
+	background-color: #4D8C7C;
+	padding: 0;
+	line-height: 60px;
+	text-align: center;
+}
+.el-dialog__headerbtn .el-dialog__close{
+	color: white;
+	font-size: 24px;
+}
+.el-dialog__title{
+	color: white;
+}
+.el-dialog__body{
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
